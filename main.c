@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+//commit used
 typedef struct{
     int dada;
     struct node* next;
